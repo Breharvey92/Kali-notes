@@ -1,0 +1,7 @@
+     
+Kali Linux 2025.2 Installed on VirtualBox
+Username: bre
+Hostname: BreDaCyberQueen
+GitHub: Breharvey92
+Install Date: July 3, 2025
+
